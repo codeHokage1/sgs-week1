@@ -3,7 +3,7 @@ For week 1, the task is to build a simple REST API and deploy on Render.
 
 The project contains a mock database of courses and allows the performance of all CRUD operations.
 
-Link to deployed api :link: : https://github.com/
+Link to deployed api :link: : https://sgs-wk1.onrender.com
 
 ## Valid routes
 ```
